@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Problem4 {
+public class inspection3 {
     /* Without changing the code what is the length of a?
      */
     public static void main(String[] args){

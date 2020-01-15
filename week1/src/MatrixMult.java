@@ -1,6 +1,6 @@
-public class Problem5 {
+public class MatrixMult {
 
-    /** In this program we attempt to multiply matices
+    /** In this program we attempt to multiply matrices
     *   the gaol is AB = C. What went wrong?
     *   how can you fix it?
      *
@@ -8,7 +8,7 @@ public class Problem5 {
      *   3, 4,
      *   2, 17,
      *
-     *   Hint: 3
+     *   Hint: 3 errors
     */
     public static void main(String[] args){
         int[][] a = {{1,0},{0,1}};
